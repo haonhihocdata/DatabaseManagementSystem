@@ -1,0 +1,178 @@
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EPPlus.dll
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EPPlus.xml
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.SuggestedBindingRedirects.cache
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormBonus.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormCaculationSalary.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormChangePassword.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormDepartment.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormLogin.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormMain.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormManagerWorking.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormPenalty.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormSalaryAdvance.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormSalaryBase.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormEmployee.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormEmployeeBonus.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormEmployeePenalty.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormEmployeeSalaryDetail.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\Linh\Desktop\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+C:\Users\Linh\Desktop\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormBonus.resources
+C:\Users\Linh\Desktop\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormCaculationSalary.resources
+C:\Users\Linh\Desktop\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormChangePassword.resources
+C:\Users\Linh\Desktop\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormDepartment.resources
+C:\Users\Linh\Desktop\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormLogin.resources
+C:\Users\Linh\Desktop\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormMain.resources
+C:\Users\Linh\Desktop\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormManagerWorking.resources
+C:\Users\Linh\Desktop\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormPenalty.resources
+C:\Users\Linh\Desktop\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormSalaryAdvance.resources
+C:\Users\Linh\Desktop\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormSalaryBase.resources
+C:\Users\Linh\Desktop\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormEmployee.resources
+C:\Users\Linh\Desktop\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormEmployeeBonus.resources
+C:\Users\Linh\Desktop\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormEmployeePenalty.resources
+C:\Users\Linh\Desktop\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormEmployeeSalaryDetail.resources
+C:\Users\Linh\Desktop\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\Linh\Desktop\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+C:\Users\Linh\Desktop\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\Linh\Desktop\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\Linh\Desktop\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\Linh\Desktop\Project\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\Linh\Desktop\Project\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\Linh\Desktop\Project\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\Linh\Desktop\Project\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EPPlus.dll
+C:\Users\Linh\Desktop\Project\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Linh\Desktop\Project\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Linh\Desktop\Project\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EPPlus.xml
+C:\Users\Linh\Desktop\Project\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Linh\Desktop\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\dbms\Project\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\dbms\Project\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\dbms\Project\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\dbms\Project\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EPPlus.dll
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\dbms\Project\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\dbms\Project\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\dbms\Project\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EPPlus.xml
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\dbms\Project\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\dbms\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\dbms\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.SuggestedBindingRedirects.cache
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\dbms\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormBonus.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\dbms\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormCaculationSalary.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\dbms\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormChangePassword.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\dbms\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormDepartment.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\dbms\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormLogin.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\dbms\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormMain.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\dbms\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormManagerWorking.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\dbms\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormPenalty.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\dbms\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormSalaryAdvance.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\dbms\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormSalaryBase.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\dbms\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormEmployee.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\dbms\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormEmployeeBonus.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\dbms\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormEmployeePenalty.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\dbms\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormEmployeeSalaryDetail.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\dbms\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\dbms\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\dbms\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\dbms\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\dbms\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\dbms\Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\Linh\Desktop\Project_Nhom14\Nhóm 14\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+C:\Users\Linh\Desktop\Project_Nhom14\Nhóm 14\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormBonus.resources
+C:\Users\Linh\Desktop\Project_Nhom14\Nhóm 14\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormCaculationSalary.resources
+C:\Users\Linh\Desktop\Project_Nhom14\Nhóm 14\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormChangePassword.resources
+C:\Users\Linh\Desktop\Project_Nhom14\Nhóm 14\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormDepartment.resources
+C:\Users\Linh\Desktop\Project_Nhom14\Nhóm 14\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormLogin.resources
+C:\Users\Linh\Desktop\Project_Nhom14\Nhóm 14\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormMain.resources
+C:\Users\Linh\Desktop\Project_Nhom14\Nhóm 14\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormManagerWorking.resources
+C:\Users\Linh\Desktop\Project_Nhom14\Nhóm 14\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormPenalty.resources
+C:\Users\Linh\Desktop\Project_Nhom14\Nhóm 14\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormSalaryAdvance.resources
+C:\Users\Linh\Desktop\Project_Nhom14\Nhóm 14\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormSalaryBase.resources
+C:\Users\Linh\Desktop\Project_Nhom14\Nhóm 14\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormEmployee.resources
+C:\Users\Linh\Desktop\Project_Nhom14\Nhóm 14\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormEmployeeBonus.resources
+C:\Users\Linh\Desktop\Project_Nhom14\Nhóm 14\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormEmployeePenalty.resources
+C:\Users\Linh\Desktop\Project_Nhom14\Nhóm 14\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormEmployeeSalaryDetail.resources
+C:\Users\Linh\Desktop\Project_Nhom14\Nhóm 14\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\Linh\Desktop\Project_Nhom14\Nhóm 14\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+C:\Users\Linh\Desktop\Project_Nhom14\Nhóm 14\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\Linh\Desktop\Project_Nhom14\Nhóm 14\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\Linh\Desktop\Project_Nhom14\Nhóm 14\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\Linh\Desktop\Project_Nhom14\Nhóm 14\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\Linh\Desktop\Project_Nhom14\Nhóm 14\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\Linh\Desktop\Project_Nhom14\Nhóm 14\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\Linh\Desktop\Project_Nhom14\Nhóm 14\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EPPlus.dll
+C:\Users\Linh\Desktop\Project_Nhom14\Nhóm 14\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Linh\Desktop\Project_Nhom14\Nhóm 14\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Linh\Desktop\Project_Nhom14\Nhóm 14\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EPPlus.xml
+C:\Users\Linh\Desktop\Project_Nhom14\Nhóm 14\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Linh\Desktop\Project_Nhom14\Nhóm 14\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\ChinhThanhFunction\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\ChinhThanhFunction\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\ChinhThanhFunction\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\ChinhThanhFunction\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EPPlus.dll
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\ChinhThanhFunction\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\ChinhThanhFunction\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\ChinhThanhFunction\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EPPlus.xml
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\ChinhThanhFunction\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\ChinhThanhFunction\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\ChinhThanhFunction\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.SuggestedBindingRedirects.cache
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\ChinhThanhFunction\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormBonus.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\ChinhThanhFunction\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormCaculationSalary.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\ChinhThanhFunction\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormChangePassword.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\ChinhThanhFunction\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormDepartment.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\ChinhThanhFunction\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormLogin.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\ChinhThanhFunction\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormMain.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\ChinhThanhFunction\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormManagerWorking.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\ChinhThanhFunction\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormPenalty.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\ChinhThanhFunction\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormSalaryAdvance.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\ChinhThanhFunction\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormSalaryBase.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\ChinhThanhFunction\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormEmployee.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\ChinhThanhFunction\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormEmployeeBonus.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\ChinhThanhFunction\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormEmployeePenalty.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\ChinhThanhFunction\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormEmployeeSalaryDetail.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\ChinhThanhFunction\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\ChinhThanhFunction\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\ChinhThanhFunction\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\ChinhThanhFunction\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\ChinhThanhFunction\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\ChinhThanhFunction\Source code (.rar)\DBMS_QuảnLýNhânSự_Nhóm14\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\Source code (.rar)\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\Source code (.rar)\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\Source code (.rar)\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\Source code (.rar)\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EPPlus.dll
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\Source code (.rar)\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\Source code (.rar)\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\Source code (.rar)\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EPPlus.xml
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\Source code (.rar)\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\Source code (.rar)\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\Source code (.rar)\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.SuggestedBindingRedirects.cache
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\Source code (.rar)\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormBonus.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\Source code (.rar)\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormCaculationSalary.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\Source code (.rar)\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormChangePassword.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\Source code (.rar)\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormDepartment.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\Source code (.rar)\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormLogin.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\Source code (.rar)\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormMain.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\Source code (.rar)\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormManagerWorking.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\Source code (.rar)\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormPenalty.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\Source code (.rar)\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormSalaryAdvance.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\Source code (.rar)\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormSalaryBase.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\Source code (.rar)\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormEmployee.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\Source code (.rar)\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormEmployeeBonus.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\Source code (.rar)\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormEmployeePenalty.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\Source code (.rar)\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormEmployeeSalaryDetail.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\Source code (.rar)\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\Source code (.rar)\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\Source code (.rar)\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\Source code (.rar)\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\Source code (.rar)\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\AdamWilling\Documents\HK1_2022-2023\DBMS\Project\Source code (.rar)\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
